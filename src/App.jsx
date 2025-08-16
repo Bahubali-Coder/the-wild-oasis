@@ -15,7 +15,7 @@ import AppLayout from "./ui/AppLayout.jsx";
 import GlobalStyles from "./styles/GlobalStyles.js";
 import { Toaster } from "react-hot-toast";
 import Booking from "./pages/Booking.jsx";
-import CheckIn from "./pages/CheckIn.jsx";
+import CheckIn from "./pages/Checkin.jsx";
 import ProtectedRoute from "./ui/ProtectedRoute.jsx";
 import { DarkModeProvider } from "./context/DarkModeContext.jsx";
 
